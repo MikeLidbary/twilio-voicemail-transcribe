@@ -11,7 +11,7 @@ What you need to follow the tutorial.
 ```
 - Twilio Account
 - Slack Account
-- Yii2
+- Laravel
 - Composer globally installed
 ```
 
