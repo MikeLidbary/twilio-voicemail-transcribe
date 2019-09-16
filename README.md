@@ -1,4 +1,4 @@
-# Forward inbound calls to voicemail and send text transcriptions to a slack channel or as SMS
+# Forward inbound calls to voicemail and send text transcriptions to a slack channel 
 
 ## Introduction
 
@@ -12,6 +12,7 @@ What you need to follow the tutorial.
 - Twilio Account
 - Slack Account
 - Laravel
+- Ngrok
 - Composer globally installed
 ```
 
@@ -25,7 +26,6 @@ These instructions will get you a copy of the project up and running on your loc
 * create logic to send inbound calls to voicemail.
 * set up webhook for our twilio number.
 * get the transcribed text from Twilio.
-* send the transcribed text through SMS.
 * send the transcribed text to a slack channel.
 
 ## Testing our App
